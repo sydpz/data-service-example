@@ -1,5 +1,6 @@
 use sample_data;
 
+
 SELECT
   `year`,
   AVG(`selling_price`) AS price
